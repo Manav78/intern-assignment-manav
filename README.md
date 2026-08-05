@@ -1,6 +1,6 @@
 # Internship Assignment: Virality Engine & Bot Guardrails
 
-## Tech Stack
+## Tech Stack  
 - **Backend:** Java 21, Spring Boot 3
 - **Database:** PostgreSQL (Relational data)
 - **Cache/Locking:** Redis (Atomic counters and rate limiting)
